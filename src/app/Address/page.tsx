@@ -2,7 +2,7 @@ import React from 'react'
 
 const page = () => {
   return(
-    <div>Home Page</div>
+    <div>Canal Road (west)  Ajwah Street Backside of Taj House </div>
   )
 }
 
